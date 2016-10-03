@@ -1,0 +1,23 @@
+p {
+	color: blue
+}
+
+div {
+	color:blue;
+	font-family:cursive;
+}
+
+<!-- not sure if text-align:automatic is a thing
+h1 {
+	font-family:impact;
+	font-size: 18px;
+	text-align:automatic
+}
+
+img {
+	height:100px;
+	width:100px;
+}
+* {
+	background-color: orange
+}
